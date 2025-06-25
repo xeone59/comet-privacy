@@ -1,43 +1,89 @@
-**Comet - Terms of Service**
+# Comet - Privacy Policy
 
 **Last Updated: March 19, 2025**
 
-Welcome to Comet! These Terms of Service ("Terms") govern your use of our AI-powered comment generation application ("App"). By accessing or using Comet, you agree to these Terms.
+Thank you for using Comet! This Privacy Policy explains how we collect, use, and protect your information when you use the Comet app ("App").
+
+By accessing or using Comet, you agree to the terms of this Privacy Policy.
 
 ---
 
-### **1. Acceptance of Terms**
-By using Comet, you confirm that you have read, understood, and agree to be bound by these Terms. If you do not agree, please do not use the App.
+## 1. Information We Collect
 
-### **2. Description of Service**
-Comet provides AI-generated comments in various styles and tones to enhance social interactions. It is designed for entertainment and creativity purposes.
+### a. Information You Provide
+We may collect limited information you voluntarily provide, such as:
+- Email address (if you log in via email or OAuth providers like Google or Twitter)
+- Age and gender (if submitted in your profile)
+- Feedback or support messages
 
-### **3. User Responsibilities**
-- You agree to use Comet in compliance with all applicable laws and regulations.
-- You are responsible for ensuring that the comments generated do not violate any third-party rights, including intellectual property and privacy rights.
-- You must not use Comet to generate or distribute harmful, offensive, or misleading content.
+### b. Automatically Collected Data
+We may collect anonymized usage data to improve app performance and user experience, including:
+- App usage metrics (e.g., number of comments generated)
+- Selected styles, tones, and preferences
+- Device type and operating system
+- IP address (used temporarily for security/logging purposes)
 
-### **4. Intellectual Property**
-All rights, title, and interest in Comet, including its design, algorithms, and generated content, remain the property of Comet's developers. You are granted a limited, non-exclusive, and revocable license to use the App.
-
-### **5. Privacy and Data Usage**
-- Comet may collect usage data to improve its services.
-- We do not store personally identifiable information unless explicitly provided by the user.
-- For more details, refer to our Privacy Policy.
-
-### **6. Disclaimer of Warranties**
-Comet is provided "as is" without warranties of any kind. We do not guarantee the accuracy, reliability, or suitability of the generated content for any purpose.
-
-### **7. Limitation of Liability**
-We are not responsible for any damages arising from your use of Comet, including but not limited to data loss, reputational harm, or misuse of generated content.
-
-### **8. Changes to the Terms**
-We may update these Terms periodically. Continued use of Comet after changes are made constitutes your acceptance of the revised Terms.
-
-### **9. Contact Information**
-If you have any questions about these Terms, please contact us at support@cometapp.ai.
+### c. OAuth Providers
+If you log in using Google or Twitter, we may receive limited profile information (such as email address or public username) to authenticate your account.
 
 ---
 
-By using Comet, you acknowledge and agree to these Terms. Thank you for being a part of our community!
+## 2. How We Use Your Data
 
+We use collected data to:
+- Provide core functionality (e.g., generating AI comments)
+- Improve app features and performance
+- Maintain user accounts and preferences
+- Analyze anonymous usage trends
+- Prevent abuse and ensure security
+
+We **do not sell**, rent, or trade your personal information to third parties.
+
+---
+
+## 3. Data Storage and Security
+
+- Your data is stored securely in cloud-based services such as [Supabase](https://supabase.com).
+- Comments generated are stored only if you are logged in and have not selected "Private Mode."
+- JWT tokens are stored on your device (e.g., via Keychain or UserDefaults).
+- We take reasonable measures to protect your data from unauthorized access or disclosure.
+
+---
+
+## 4. Third-Party Services
+
+Comet integrates with third-party services, including:
+- **OpenAI** (for AI-generated content)
+- **Supabase** (for authentication and database)
+- **RevenueCat** (for in-app subscription handling)
+- **OAuth providers** like Google and Twitter (for login)
+
+These services have their own privacy policies, and we recommend reviewing them.
+
+---
+
+## 5. Your Rights and Choices
+
+- You may request to view or delete your data by contacting us at [support@cometapp.ai](mailto:support@cometapp.ai).
+- You may opt out of data collection by discontinuing the use of the app.
+- If using a social login, you may revoke access from your Google or Twitter account settings.
+
+---
+
+## 6. Children's Privacy
+
+Comet is not intended for children under the age of 13. We do not knowingly collect personal data from children. If you believe a child has provided us data, contact us and we will delete it promptly.
+
+---
+
+## 7. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted to this page with a revised date. Continued use of the app constitutes your acceptance of the updated policy.
+
+---
+
+## 8. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+**Email:** [support@cometapp.ai](mailto:support@cometapp.ai)
