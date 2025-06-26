@@ -86,4 +86,4 @@ We may update this Privacy Policy from time to time. Updates will be posted to t
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** [support@cometapp.ai](mailto:support@cometapp.ai)
+**Email:** [cometapp.help@gmail.com](mailto:cometapp.help@gmail.com)
